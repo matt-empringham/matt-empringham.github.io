@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .header {
-	font-family:"Adobe Text Pro";
+	font-family:"keplter.std";
 	position: sticky;
 	top: 0;
 	font-size: 16px;
@@ -10,7 +10,7 @@ h2 {font-family:"Adobe Text Pro";
 	font-size: 16px;
 margin: 0}
 
-h3 {font-family:"Adobe Text Pro";
+h3 {font-family:"kepler-std";
 	font-size: 16px;
 margin-bottom: 0}
 
