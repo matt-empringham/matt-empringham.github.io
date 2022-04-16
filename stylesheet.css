@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: 'kepler';
+	src: url("fonts/KeplerStd-BlackExtItSubh.otf")
+
+}
+
+@font-face {
+	font-family: 
+}
+
+
+.header {
+	font-family:"Helvetica Neue";
+	position: sticky;
+	top: 0;
+	font-size: 25px;
+
+	color: black}
+
+h1 {font-family:"Helvetica Neue";
+	font-size: 16px;
+	padding-bottom: 20px;
+	max-width: 440px;
+margin: 0}
+
+h2 {font-family:"Helvetica Neue";
+	font-size: 16px;
+	margin: 0}
+
+h3 {font-family:"Helvetica Neue";
+	font-size: 25px;
+	margin-bottom: 0}
+
+h4 {font-family:"Helvetica Neue";
+	font-size: 16px;
+	max-width: 450px;
+	text-decoration: none;
+	color: black;
+margin: 0}
+
+h5 {font-family:"Helvetica Neue";
+	font-size: 16px;
+margin: 0;
+text-align: right;
+padding-right: 33%}
+
+h6 {font-family:"Helvetica Neue";
+	font-size: 16px;
+margin: 0;
+text-align: right;
+padding-right: 33%}
+
+p {text-align: justify;
+	max-width: 300px;
+	font-size: 16px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;}
+
+.nav {
+	font-family: "Helvetica Neue";
+	padding-top: 100px;
+	color: black;
+	font-size: 14px;
+	text-align: right;
+	text-decoration: none}
+
+.photo-stream {
+	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%
+}
+
+footer {
+	font-family: "Helvetica Neue";
+	font-size: 10px;
+	text-align: center
+}
