@@ -69,6 +69,8 @@ p {text-align: justify;
 
 .photo-stream {
 	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%;
 }
 
 footer {
